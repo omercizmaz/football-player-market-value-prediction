@@ -22,3 +22,6 @@ This project aims to predict football players' market values using regression-ba
 
 ## Example Visualization
 <img width="2571" height="1634" alt="actual_vs_predicted_ridge" src="https://github.com/user-attachments/assets/6ee0b154-b57e-4129-9a56-2a1cde46ef40" />
+
+## Better Model
+<img width="3402" height="1634" alt="better-model" src="https://github.com/user-attachments/assets/d6acdcb9-df12-46df-8e48-191a4ec45b7d" />

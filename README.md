@@ -20,5 +20,5 @@ This project aims to predict football players' market values using regression-ba
 - Regularized models (Ridge, ElasticNet) provided more stable and realistic predictions.
 - Prediction errors increased for high-value players due to unobserved market factors.
 
-## 📊 Example Visualization
-![Actual vs Predicted](figures/actual_vs_predicted_ridge.png)
+## Example Visualization
+<img width="2571" height="1634" alt="actual_vs_predicted_ridge" src="https://github.com/user-attachments/assets/6ee0b154-b57e-4129-9a56-2a1cde46ef40" />
